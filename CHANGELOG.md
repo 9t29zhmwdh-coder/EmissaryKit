@@ -3,6 +3,17 @@
 All notable changes to EmissaryKit, formerly SwiftAgent, will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.3] - 2026-09-27
+
+### Changed
+
+Dependency and CI updates merged since v1.2.2, each with green checks:
+
+- chore(ci): bump the actions group with 3 updates (#40)
+- chore(ci): bump the actions group with 3 updates (#39)
+
+---
+
 ## [1.2.2] - 2026-07-31
 
 ### Changed
