@@ -3,6 +3,14 @@
 All notable changes to EmissaryKit, formerly SwiftAgent, will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.5] - 2026-10-11
+
+### Fixed
+
+- The OpenSSF Scorecard badge in the README showed a broken image on GitHub. The Scorecard API answers with a redirect to shields.io, which GitHub's image proxy does not follow reliably. The badge now points at shields.io directly.
+
+---
+
 ## [1.2.4] - 2026-09-30
 
 ### Changed
